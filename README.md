@@ -30,9 +30,9 @@ From [JeaSungLEE/iOSInterviewquestions](https://github.com/JeaSungLEE/iOSIntervi
 |TableView를 동작 방식과 화면에 Cell을 출력하기 위해 최소한 구현해야 하는 DataSource 메서드를 설명하시오.|[#15](../../issues/15)|
 |하나의 View Controller 코드에서 여러 TableView Controller 역할을 해야 할 경우 어떻게 구분해서 구현해야 하는지 설명하시오.|[#16](../../issues/16)|
 |App Bundle의 구조와 역할에 대해 설명하시오.|[#17](../../issues/17)|
-|View 객체에 대해 설명하시오.|[link]()|
-|UIView 에서 Layer 객체는 무엇이고 어떤 역할을 담당하는지 설명하시오.|[link]()|
-|UIWindow 객체의 역할은 무엇인가?|[link]()|
+|View 객체에 대해 설명하시오.|[#28](../../issues/28)|
+|UIView 에서 Layer 객체는 무엇이고 어떤 역할을 담당하는지 설명하시오.|[#29](../../issues/29)|
+|UIWindow 객체의 역할은 무엇인가?|[#32](../../issues/32)|
 |UINavigationController 의 역할이 무엇인지 설명하시오.|[link]()|
 |모든 View Controller 객체의 상위 클래스는 무엇이고 그 역할은 무엇인가?|[link]()|
 |앱이 시작할 때 main.c 에 있는 UIApplicationMain 함수에 의해서 생성되는 객체는 무엇인가?|[link]()|
@@ -50,8 +50,8 @@ From [JeaSungLEE/iOSInterviewquestions](https://github.com/JeaSungLEE/iOSIntervi
 |--|--|
 |오토레이아웃을 코드로 작성하는 방법은 무엇인가? (3가지)|[#18](../../issues/18)|
 |hugging, resistance에 대해서 설명하시오.|[#19](../../issues/19)|
-|Intrinsic Size에 대해서 설명하시오.|[#26](../../issues/26)|
-|스토리보드를 이용했을때의 장단점을 설명하시오.|[#27](../../issues/27)|
+|Intrinsic Size에 대해서 설명하시오.|[#24](../../issues/24)|
+|스토리보드를 이용했을때의 장단점을 설명하시오.|[#25](../../issues/25)|
 |Safearea에 대해서 설명하시오.|[link]()|
 |Left Constraint 와 Leading Constraint 의 차이점을 설명하시오.|[link]()|
 
@@ -63,10 +63,10 @@ From [JeaSungLEE/iOSInterviewquestions](https://github.com/JeaSungLEE/iOSIntervi
 |Fast Enumeration 이란 무엇인지 설명하시오. |[#21](../../issues/21)|
 |Struct 가 무엇이고 어떻게 사용하는지 설명하시오.|[#22](../../issues/22)|
 |instance 메서드와 class 메서드의 차이점을 설명하시오.|[#23](../../issues/23)|
-|Delegate 패턴을 활용하는 경우를 예를 들어 설명하시오.|[#28](../../issues/28)|
-|Singleton 패턴을 활용하는 경우를 예를 들어 설명하시오.|[#29](../../issues/29)|
-|KVO 동작 방식에 대해 설명하시오.|[link]()|
-|Delegates와 Notification 방식의 차이점에 대해 설명하시오.|[link]()|
+|Delegate 패턴을 활용하는 경우를 예를 들어 설명하시오.|[#26](../../issues/26)|
+|Singleton 패턴을 활용하는 경우를 예를 들어 설명하시오.|[#27](../../issues/27)|
+|KVO 동작 방식에 대해 설명하시오.|[#30](../../issues/30)|
+|Delegates와 Notification 방식의 차이점에 대해 설명하시오.|[#31](../../issues/31)|
 |멀티 쓰레드로 동작하는 앱을 작성하고 싶을 때 고려할 수 있는 방식들을 설명하시오.|[link]()|
 |MVC 구조에 대해 블록 그림을 그리고, 각 역할과 흐름을 설명하시오.|[link]()|
 |프로토콜이란 무엇인지 설명하시오.|[link]()|
