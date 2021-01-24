@@ -33,9 +33,9 @@ From [JeaSungLEE/iOSInterviewquestions](https://github.com/JeaSungLEE/iOSIntervi
 |View 객체에 대해 설명하시오.|[#28](../../issues/28)|
 |UIView 에서 Layer 객체는 무엇이고 어떤 역할을 담당하는지 설명하시오.|[#29](../../issues/29)|
 |UIWindow 객체의 역할은 무엇인가?|[#32](../../issues/32)|
-|UINavigationController 의 역할이 무엇인지 설명하시오.|[link]()|
-|모든 View Controller 객체의 상위 클래스는 무엇이고 그 역할은 무엇인가?|[link]()|
-|앱이 시작할 때 main.c 에 있는 UIApplicationMain 함수에 의해서 생성되는 객체는 무엇인가?|[link]()|
+|UINavigationController 의 역할이 무엇인지 설명하시오.|[#33](../../issues/33)|
+|모든 View Controller 객체의 상위 클래스는 무엇이고 그 역할은 무엇인가?|[#34](../../issues/34)|
+|앱이 시작할 때 main.c 에 있는 UIApplicationMain 함수에 의해서 생성되는 객체는 무엇인가?|[#35](../../issues/35)|
 |UIApplication 객체의 컨트롤러 역할은 어디에 구현해야 하는가?|[link]()|
 |앱의 콘텐츠나 데이터 자체를 저장/보관하는 특별한 객체를 무엇이라고 하는가?|[link]()|
 |앱 화면의 콘텐츠를 표시하는 로직과 관리를 담당하는 객체를 무엇이라고 하는가?|[link]()|
@@ -67,7 +67,7 @@ From [JeaSungLEE/iOSInterviewquestions](https://github.com/JeaSungLEE/iOSIntervi
 |Singleton 패턴을 활용하는 경우를 예를 들어 설명하시오.|[#27](../../issues/27)|
 |KVO 동작 방식에 대해 설명하시오.|[#30](../../issues/30)|
 |Delegates와 Notification 방식의 차이점에 대해 설명하시오.|[#31](../../issues/31)|
-|멀티 쓰레드로 동작하는 앱을 작성하고 싶을 때 고려할 수 있는 방식들을 설명하시오.|[link]()|
+|멀티 쓰레드로 동작하는 앱을 작성하고 싶을 때 고려할 수 있는 방식들을 설명하시오.|[#36](../../issues/36)|
 |MVC 구조에 대해 블록 그림을 그리고, 각 역할과 흐름을 설명하시오.|[link]()|
 |프로토콜이란 무엇인지 설명하시오.|[link]()|
 |Hashable이 무엇이고, Equatable을 왜 상속해야 하는지 설명하시오.|[link]()|
