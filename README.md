@@ -68,8 +68,8 @@ From [JeaSungLEE/iOSInterviewquestions](https://github.com/JeaSungLEE/iOSIntervi
 |KVO 동작 방식에 대해 설명하시오.|[#30](../../issues/30)|
 |Delegates와 Notification 방식의 차이점에 대해 설명하시오.|[#31](../../issues/31)|
 |멀티 쓰레드로 동작하는 앱을 작성하고 싶을 때 고려할 수 있는 방식들을 설명하시오.|[#36](../../issues/36)|
-|MVC 구조에 대해 블록 그림을 그리고, 각 역할과 흐름을 설명하시오.|[link]()|
-|프로토콜이란 무엇인지 설명하시오.|[link]()|
+|MVC 구조에 대해 블록 그림을 그리고, 각 역할과 흐름을 설명하시오.|[#37](../../issues/37)|
+|프로토콜이란 무엇인지 설명하시오.|[#38](../../issues/38)|
 |Hashable이 무엇이고, Equatable을 왜 상속해야 하는지 설명하시오.|[link]()|
 |mutating 키워드에 대해 설명하시오.|[link]()|
 |탈출 클로저에 대하여 설명하시오.|[link]()|
