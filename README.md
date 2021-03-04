@@ -37,12 +37,12 @@ From [JeaSungLEE/iOSInterviewquestions](https://github.com/JeaSungLEE/iOSIntervi
 |모든 View Controller 객체의 상위 클래스는 무엇이고 그 역할은 무엇인가?|[#34](../../issues/34)|
 |앱이 시작할 때 main.c 에 있는 UIApplicationMain 함수에 의해서 생성되는 객체는 무엇인가?|[#35](../../issues/35)|
 |UIApplication 객체의 컨트롤러 역할은 어디에 구현해야 하는가?|[link]()|
-|앱의 콘텐츠나 데이터 자체를 저장/보관하는 특별한 객체를 무엇이라고 하는가?|[link]()|
-|앱 화면의 콘텐츠를 표시하는 로직과 관리를 담당하는 객체를 무엇이라고 하는가?|[link]()|
+|앱의 콘텐츠나 데이터 자체를 저장/보관하는 특별한 객체를 무엇이라고 하는가?|[#44](../../issues/44)|
+|앱 화면의 콘텐츠를 표시하는 로직과 관리를 담당하는 객체를 무엇이라고 하는가?|[#45](../../issues/45)|
 |Swift의 클로저와 Objective-C의 블록은 어떤 차이가 있는가?|[link]()|
-|App의 Not running, Inactive, Active, Background, Suspended에 대해 설명하시오.|[link]()|
-|App thinning에 대해서 설명하시오.|[link]()|
-|Global DispatchQueue 의 Qos 에는 어떤 종류가 있는지, 각각 어떤 의미인지 설명하시오.|[link]()|
+|App의 Not running, Inactive, Active, Background, Suspended에 대해 설명하시오.|[#46](../../issues/46)|
+|App thinning에 대해서 설명하시오.|[#47](../../issues/47)|
+|Global DispatchQueue 의 Qos 에는 어떤 종류가 있는지, 각각 어떤 의미인지 설명하시오.|[#48](../../issues/48)|
 
 ## Autolayout
 
@@ -52,8 +52,8 @@ From [JeaSungLEE/iOSInterviewquestions](https://github.com/JeaSungLEE/iOSIntervi
 |hugging, resistance에 대해서 설명하시오.|[#19](../../issues/19)|
 |Intrinsic Size에 대해서 설명하시오.|[#24](../../issues/24)|
 |스토리보드를 이용했을때의 장단점을 설명하시오.|[#25](../../issues/25)|
-|Safearea에 대해서 설명하시오.|[link]()|
-|Left Constraint 와 Leading Constraint 의 차이점을 설명하시오.|[link]()|
+|Safearea에 대해서 설명하시오.|[#42](../../issues/42)|
+|Left Constraint 와 Leading Constraint 의 차이점을 설명하시오.|[#43](../../issues/43)|
 
 ## Swift
 
