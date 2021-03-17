@@ -73,18 +73,18 @@ From [JeaSungLEE/iOSInterviewquestions](https://github.com/JeaSungLEE/iOSIntervi
 |Hashable이 무엇이고, Equatable을 왜 상속해야 하는지 설명하시오.|[#39](../../issues/39)|
 |mutating 키워드에 대해 설명하시오.|[#40](../../issues/40)|
 |탈출 클로저에 대하여 설명하시오.|[#41](../../issues/41)|
-|Extension에 대해 설명하시오.|[link]()|
-|접근 제어자의 종류엔 어떤게 있는지 설명하시오|[link]()|
-|defer란 무엇인지 설명하시오.|[link]()|
-|defer가 호출되는 순서는 어떻게 되고, defer가 호출되지 않는 경우를 설명하시오.|[link]()|
+|Extension에 대해 설명하시오.|[#49](../../issues/49)|
+|접근 제어자의 종류엔 어떤게 있는지 설명하시오|[#50](../../issues/50)|
+|defer란 무엇인지 설명하시오.|[#51](../../issues/51)|
+|defer가 호출되는 순서는 어떻게 되고, defer가 호출되지 않는 경우를 설명하시오.|[#52](../../issues/52)|
 
 ## ARC
 
 |면접 질문|링크|
 |--|--|
-|ARC란 무엇인지 설명하시오.|[link]()|
-|Retain Count 방식에 대해 설명하시오.|[link]()|
-|Strong 과 Weak 참조 방식에 대해 설명하시오.|[link]()|
+|ARC란 무엇인지 설명하시오.|[#53](../../issues/53)|
+|Retain Count 방식에 대해 설명하시오.|[#54](../../issues/54)|
+|Strong 과 Weak 참조 방식에 대해 설명하시오.|[#55](../../issues/55)|
 |ARC 대신 Manual Reference Count 방식으로 구현할 때 꼭 사용해야 하는 메서드들을 쓰고 역할을 설명하시오.|[link]()|
 |retain 과 assign 의 차이점을 설명하시오.|[link]()|
 |순환 참조에 대하여 설명하시오.|[link]()|
