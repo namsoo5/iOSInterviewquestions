@@ -135,15 +135,16 @@ Objective-c나 rx는 회사, 팀마다 사용하는곳이 차이가있고 신입
 
 |면접 질문|링크|
 |--|--|
-|MVVM, MVC, Ribs, VIP 등 자신이 알고있는 아키텍쳐를 설명하시오.|[link]()|
-|의존성 주입에 대하여 설명하시오.|[link]()|
+|MVVM, MVC, Ribs, VIP 등 자신이 알고있는 아키텍쳐를 설명하시오.|[#61](../../issues/61)|
+|의존성 주입에 대하여 설명하시오.|[#60](../../issues/60)|
 
 ## Rx
 
 |면접 질문|링크|
 |--|--|
-|Reactive Programming이 무엇인지 설명하시오.|[link]()|
-|RxSwift에서 Hot Observable과 Cold Observable의 차이를 설명하시오.|[link]()|
-
+|Reactive Programming이 무엇인지 설명하시오.|[#56](../../issues/56)|
+|RxSwift에서 Hot Observable과 Cold Observable의 차이를 설명하시오.|[#57](../../issues/57)|
+|Traits란?|[#59](../../issues/59)|
+|Subject의 종류와 차이점에 대해 설명하시오.|[#58](../../issues/58)|
 </div>
 </details>
